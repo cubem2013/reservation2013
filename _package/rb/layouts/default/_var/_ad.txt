@@ -1,1 +1,0 @@
-<div class="banner"><span>광고영역</span></div>

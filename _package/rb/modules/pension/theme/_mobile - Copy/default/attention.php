@@ -1,1 +1,0 @@
-<div class="title">환불 및 유의사항</div>

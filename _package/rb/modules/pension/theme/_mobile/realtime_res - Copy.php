@@ -1,1 +1,0 @@
-<div class="title">실시간 예약</div>
