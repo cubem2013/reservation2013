@@ -1,0 +1,1 @@
+<div class="title">약도안내</div>

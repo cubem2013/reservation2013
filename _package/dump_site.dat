@@ -1,0 +1,5 @@
+layout	pension_default/main.php	
+m_layout	pension_mobile/main.php	
+lang	korean	
+dtd	xhtml_1	
+nametype	nic	

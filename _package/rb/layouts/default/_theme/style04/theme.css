@@ -1,0 +1,51 @@
+/* style04 */
+
+#header {}
+#header .wrap {}
+#header .logo {float:left;padding:0;margin:0;position:relative;}
+#header .logo ._logo_img {}
+#header .logo ._logo_img img {}
+#header .logo ._logo_txt {padding:0;margin:0;}
+#header .logo ._logo_txt a {}
+
+#header .login {float:right;position:relative;}
+#header .login a {}
+#header .login i {display:inline-block;margin:0 3px 0 3px;position:relative;top:1px;width:1px;height:11px;}
+
+#header .search {float:right;position:relative;margin:0 0 0 15px;}
+#header .search form {display:block;width:130px;height:25px;background:#444444;border-radius:10px 10px 10px 10px;}
+#header .search .keyword {float:left;padding:2px 0 0 3px;margin:3px 0 0 6px;width:116px;height:17px;background:url('./bg_search_btn.jpg') left 3px top 3px no-repeat #444444;font-size:11px;font-family:dotum;color:#999999;border:0;}
+#header .search .keyword:focus {font-weight:bold;font-size:12px;font-family:gulim;color:#efefef;background:#444444;}
+#header .search .sbtn {float:left;display:none;}
+
+
+
+#topmenu {height:1px;}
+#topmenu ul {display:inline-block;padding:0;margin:0;list-style-type:none;position:relative;left:120px;top:-57px;border-left:#000000 solid 1px;border-right:#303030 solid 1px;}
+#topmenu li {float:left;}
+#topmenu li a {display:inline-block;padding:0 10px 0 10px;margin:0px;height:56px;font-weight:bold;font-family:"malgun gothic";font-size:13px;color:#FEFEFE;border-left:#303030 solid 1px;border-right:#000000 solid 1px;}
+#topmenu li a span {display:block;font-style:normal;padding-top:18px;}
+#topmenu li div {position:absolute;display:none;width:1px;height:1px;z-index:1;}
+#topmenu li div dl {margin:57px 0 0 -1px;padding:3px;width:130px;background:#efefef;border:#dfdfdf solid 1px;}
+#topmenu li div dt {margin:0;padding:0;}
+#topmenu li div dd {margin:0;padding:0;}
+#topmenu li div dt a {border:0;color:#000000;overflow:hidden;height:13px;line-height:150%;display:block;font-weight:normal;padding:4px 0 10px 10px;font-size:12px;font-family:gulim;height:12px;text-shadow:0 0 0 #666666;}
+#topmenu li div dt a:hover {background:#dfdfdf;}
+#topmenu li div dd a {border:0;color:#000000;overflow:hidden;height:12px;line-height:150%;display:block;font-weight:normal;padding:3px 0 8px 15px;font-size:12px;font-family:gulim;height:11px;text-shadow:0 0 0 #666666;}
+#topmenu li div dd a:hover {background:#dfdfdf;}
+#topmenu .on,#topmenu li a:hover {margin-left:0;background:url('./bg_menu_on.jpg');}
+#topmenu .on1 {background:#dfdfdf;border-radius:5px 5px 5px 5px;}
+#topmenu .none {color:#999999;padding:19px 0 0 10px;}
+#topmenu .none a {display:inline;padding:3px 5px 3px 5px;position:relative;top:2px;}
+#topmenu .more {margin:0 0 3px 3px;}
+
+
+
+#footer .wrap {padding:15px 0 20px 0;border-top:#DEDEDE solid 1px;}
+#footer .wrap .slinks {float:left;}
+#footer .wrap .slinks .elink {padding:10px 0 10px 0;font-size:11px;font-family:dotum;color:#c0c0c0;letter-spacing:2px;}
+#footer .wrap .slinks .elink a {font-family:gulim;font-size:12px;letter-spacing:-1px;color:#666666;}
+#footer .wrap .slinks .elink a:hover {text-decoration:underline;}
+#footer .wrap .slinks .copyright {font-size:11px;font-family:arial;color:#999999;}
+#footer .wrap .powered {float:right;}
+#footer .wrap .kimsq {padding:10px 0 10px 0;font-size:11px;font-family:arial;color:#c0c0c0;}
