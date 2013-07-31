@@ -1,0 +1,9 @@
+3	1	1	main	기본페이지	메인화면				
+1	0	0	join	기본페이지	회원가입		./?m=member&front=join		
+1	0	0	login	기본페이지	로그인		./?m=member&front=login		
+1	0	0	mypage	기본페이지	마이페이지		./?m=member&front=mypage		
+1	0	0	search	기본페이지	통합검색		./?m=search		
+3	0	0	agreement	기본페이지	홈페이지 이용약관				
+3	0	0	private	기본페이지	개인정보 취급방침				
+3	0	0	postrule	기본페이지	게시물 게재원칙				
+3	0	1	main_mobile	모바일페이지	메인화면				

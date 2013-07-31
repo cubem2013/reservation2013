@@ -1,0 +1,16 @@
+#content .title {width:960px; height:22px;background:url('./image/big_point.png') no-repeat;font-size:16px;font-weight:bold;padding:0 0 0 20px;margin:10px 0 7px 0;}
+#content .line {border-style:solid;border-width:1px;color:#f1f1f1;margin:0 0 30px 0;}
+#content .s1_text {font-size:13px;font-family:"나눔고딕";line-height:22px;color:#666;margin:30px 0 10px 0;}
+#content .s1_text2 {font-size:18px;font-family:"나눔고딕";line-height:22px;color:#666;}
+#content .r_name {font-size:11px;font-family:"나눔고딕";line-height:18px;color:#666;margin:10px 0 30px 0;}
+#content .s_title {background:url('./image/small_point.png') no-repeat;font-size:14px;font-weight:bold;padding:0 0 0 10px;margin:10px 0 10px 0;}
+#content .ta_title {font-size:11px;color:#666;line-height:16px;padding:0 0 20px 30px;margin:20px 0 20px 0;border-bottom:1px solid #dedede;}
+#content .ta_title2 {font-size:11px;color:#666;line-height:16px;padding:0 0 20px 50px;margin:20px 0 20px 0;border-bottom:1px solid #dedede;}
+#content .ps_name {font-size:14px;font-weight:bold;color:#ec515e;border-radius: 7px;-moz-border-radius:7px;-webkit-border-radius:  7px;padding:0 0  15px 0;display:inline-block;margin:0;}
+#content .ps_text {width:720px;height:180px;font-size:12px;color:#666;line-height:20px;padding:0 0 0 0;}
+#content .ps_line {border-style:solid;border-width:1px;color:#f1f1f1;margin:0 0  30px 0;}
+#content .s5_title {width:130px;background:#FFd0d0; padding:5px 10px 5px 5px;margin:30px 0 15px 0;font-size:14px;color:#fff;font-weight:bold;}
+#content .s5_s_title {line-height:16px;font-size:13px;color:#f07c86;font-weight:bold;margin:0 0 5px 0;}
+#content .s5_text {line-height:16px;font-size:12px;}
+#content .s6_text {border-style:solid;border-width:1px;color:#666;padding:10px 10px 10px 10px;margin:15px 0 30px 0;line-height:20px;font-size:12px;}
+
