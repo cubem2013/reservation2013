@@ -1,0 +1,53 @@
+/* 테마명칭 : 샘플 style01 */
+
+/* 헤더 */
+#header {}
+#header .wrap {border-bottom:#DEDEDE solid 1px;}
+#header .logo {float:left;padding:0;margin:0;position:relative;}
+#header .logo ._logo_img {}
+#header .logo ._logo_img img {}
+#header .logo ._logo_txt {padding:0;margin:0;}
+#header .logo ._logo_txt a {}
+
+/* 로그인링크 */
+#header .login {float:right;position:relative;}
+#header .login a {}
+#header .login i {display:inline-block;margin:0 3px 0 3px;position:relative;top:1px;width:1px;height:11px;}
+
+/* 검색폼 */
+#header .search {float:right;position:relative;margin:0 0 0 20px;}
+#header .search form {display:block;width:228px;height:25px;background:#ffffff;border-radius:6px 6px 6px 6px;}
+#header .search .keyword {float:left;padding:2px 0 0 3px;margin:3px 0 0 6px;width:186px;height:17px;font-size:11px;font-family:dotum;color:#888888;border:0;background:#ffffff;}
+#header .search .keyword:focus {font-weight:bold;font-size:12px;font-family:gulim;color:#222222;}
+#header .search .sbtn {float:left;padding:5px;position:relative;top:-1px;left:4px;}
+
+/* 상단메뉴 */
+#topmenu {}
+#topmenu .wrap {height:50px;border-bottom:#dfdfdf solid 1px;}
+#topmenu ul {padding:15px 0 0 0;margin:0;list-style-type:none;}
+#topmenu li {float:left;padding:0 4px 0 4px;margin:0;height:40px;}
+#topmenu li a {font-weight:bold;font-family:"malgun gothic";font-size:13px;color:#666666;display:block;padding:1px 7px 5px 7px;letter-spacing:-1px;}
+#topmenu li div {position:absolute;display:none;width:1px;height:1px;z-index:1;}
+#topmenu li div dl {margin:30px 0 0 1px;padding:3px;width:130px;background:#ffffff;border:#dfdfdf solid 1px;}
+#topmenu li div dt {margin:0;padding:0;}
+#topmenu li div dd {margin:0;padding:0;}
+#topmenu li div dt a {overflow:hidden;height:13px;line-height:150%;display:block;font-weight:normal;padding:4px 0 10px 10px;font-size:12px;font-family:gulim;height:12px;text-shadow:0 0 0 #666666;}
+#topmenu li div dt a:hover {background:#efefef;}
+#topmenu li div dd a {overflow:hidden;height:12px;line-height:150%;display:block;font-weight:normal;padding:3px 0 8px 15px;font-size:12px;font-family:gulim;height:11px;text-shadow:0 0 0 #666666;}
+#topmenu li div dd a:hover {background:#efefef;}
+#topmenu li a:hover,#topmenu .on {color:#000000;background:#efefef;border-radius:5px 5px 5px 5px;}
+#topmenu .on1 {background:#efefef;border-radius:5px 5px 5px 5px;}
+#topmenu .none {color:#999999;padding:2px 0 0 10px;}
+#topmenu .none a {display:inline;background:#ffffff;padding:3px 5px 3px 5px;position:relative;top:2px;}
+#topmenu .more {margin:0 0 3px 3px;}
+#topmenu .home {margin-right:15px;}
+
+/* 풋터 */
+#footer .wrap {padding:15px 0 20px 0;border-top:#DEDEDE solid 1px;}
+#footer .wrap .slinks {float:left;}
+#footer .wrap .slinks .elink {padding:10px 0 10px 0;font-size:11px;font-family:dotum;color:#c0c0c0;letter-spacing:2px;}
+#footer .wrap .slinks .elink a {font-family:gulim;font-size:12px;letter-spacing:-1px;color:#666666;}
+#footer .wrap .slinks .elink a:hover {text-decoration:underline;}
+#footer .wrap .slinks .copyright {font-size:11px;font-family:arial;color:#999999;}
+#footer .wrap .powered {float:right;}
+#footer .wrap .kimsq {padding:10px 0 10px 0;font-size:11px;font-family:arial;color:#c0c0c0;}
