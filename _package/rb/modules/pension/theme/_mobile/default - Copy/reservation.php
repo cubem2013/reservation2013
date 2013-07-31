@@ -1,1 +1,0 @@
-<div class="title">예약안내</div>
