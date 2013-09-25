@@ -33,7 +33,7 @@
 .camera_thumbs_wrap table, .camera_thumbs_wrap tbody, .camera_thumbs_wrap tfoot, .camera_thumbs_wrap thead, .camera_thumbs_wrap tr, .camera_thumbs_wrap th, .camera_thumbs_wrap td {
 	background: none;
 	border: 0;
-	font: "나눔고딕";
+	font: 'Nanum Gothic';
 	font-size: 100%;
 	margin: 0;
 	padding: 0;
@@ -47,6 +47,7 @@
 	z-index: 0;
 }
 .camera_wrap img {
+	width:100px;
 	height:auto;
 	max-width: 720px!important;
 }
@@ -156,7 +157,7 @@
 .camera_thumbs_wrap.camera_bottom .camera_bar, .camera_thumbs_wrap.camera_top .camera_bar {
 	height: auto;
 	position: absolute;
-	width: 100%;
+	width: 100px;
 }
 .camera_nav_cont {
 	height: 65px;
@@ -362,7 +363,7 @@
 	border-bottom-left-radius: 4px;
 	overflow: hidden;
 	position: relative;
-	width: 100%;
+	width: 50%;
 }
 .camera_commands_emboss .camera_thumbs_cont {
 	-moz-box-shadow:

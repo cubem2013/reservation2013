@@ -23,7 +23,7 @@
     <td style="color: #fff; font-weight:bold;">겨울성수기</td>
   </tr>
     <tr>
-      <td><img src="<?php echo $g['img_module_skin']?>/s6_img.png"></td>
+      <td align="center"><img src="<?php echo $g['img_module_skin']?>/s6_img.png"></td>
       <td><input type="checkbox" name="room" id="room" />
         <label for="room"></label>
         애플민트 <font style="background:#007eff; padding:1px 1px 1px 1px; color:#fff;">가능</font></td>

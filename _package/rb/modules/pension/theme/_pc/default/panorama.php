@@ -20,9 +20,7 @@
 
 
 
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" > 
-    <meta name="description" content="Camera a free jQuery slideshow with many effects, transitions, adaptive layout, easy to customize, using canvas and mobile ready"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <div class="title">주변전경</div>
 <div class="line"></div>
 

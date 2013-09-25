@@ -5,7 +5,7 @@
 <div class="t_type5" >
 <table cellspacing="0">
   <tr>
-    <td bgcolor="#ffb8b8" align="center" style="color: #fff">객실명</td>
+    <td width="110" align="center" bgcolor="#ffb8b8" style="color: #fff">객실명</td>
     <td><span style="color: #ec515e; font-weight: bold;">애플민트</span> (커플침대/12평:40㎡)</td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
 <div class="t_type5" >
 <table cellspacing="0">
   <tr>
-    <td bgcolor="#ffb8b8" align="center" style="color: #fff">부대시설 이용요금</td>
+    <td width="110" align="center" bgcolor="#ffb8b8" style="color: #fff">부대시설 이용요금</td>
     <td>바베큐 1인분(35,000원)</td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
 <form action="" method="post" name="res_info" id="res_info">
   <table cellspacing="0">
     <tr>
-      <td bgcolor="#ffb8b8" align="center" style="color: #fff">예약자 성명</td>
+      <td width="110" align="center" bgcolor="#ffb8b8" style="color: #fff">예약자 성명</td>
       <td><label for="name"></label>
       <input type="text" name="name" id="name"></td>
     </tr>
@@ -70,7 +70,7 @@
 <form action="" method="post" name="pay_info" id="pay_info">
   <table  cellspacing="0">
     <tr>
-      <td bgcolor="#ffb8b8" align="center" style="color: #fff">결제 요금</td>
+      <td width="110" align="center" bgcolor="#ffb8b8" style="color: #fff">결제 요금</td>
       <td><span style="color: #ec515e; font-weight: bold;">95,000원</span></td>
     </tr>
     <tr>

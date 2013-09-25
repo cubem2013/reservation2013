@@ -50,7 +50,7 @@
 	border-width:0px 1px 1px 0px;
 	padding:10px;
 	font-size:12px;
-	font-family:"나눔고딕";
+	font-family:'Nanum Gothic';
 	text-align:center;
 	color:#666666;
 }.t_type5 tr:last-child td{
@@ -70,7 +70,7 @@
 	text-align:center;
 	border-width:0px 1px 0px 0px;
 	font-size:14px;
-	font-family:"나눔고딕";
+	font-family:'Nanum Gothic';
 	font-weight:bold;
 	color:#ffffff;
 }

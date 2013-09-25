@@ -10,7 +10,7 @@
 소프트웨어 개념을 구현하고 있습니다.<br>
 앞으로도 저희 (주)큐브엠에 많은 관심과 성원 부탁드립니다.<br>
 감사합니다.<br><br><br>
-<div class="s1_text2">대표이사  <strong>장승욱</strong>
+<div class="s1_text2">대표이사  <strong>홍길동</strong>
 </div>
 </div>
 <br><br><br><br><br><br><br><br><br><br>

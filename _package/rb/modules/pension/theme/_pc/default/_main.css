@@ -1,8 +1,13 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@font-face{ font-family:'cute'; src:url(image/Cute%20ShinMinsang.eot); src:local('☺'), url(image/Cute%20ShinMinsang.woff) format("woff");}
+
+#content .aside {float:left;width:200px; margin-right:20px;padding-bottom:20px;}
 #content .title {width:960px; height:22px;background:url('./image/big_point.png') no-repeat;font-size:16px;font-weight:bold;padding:0 0 0 20px;margin:10px 0 7px 0;}
 #content .line {border-style:solid;border-width:1px;color:#f1f1f1;margin:0 0 30px 0;}
-#content .s1_text {font-size:13px;font-family:"나눔고딕";line-height:22px;color:#666;margin:30px 0 10px 0;}
-#content .s1_text2 {font-size:18px;font-family:"나눔고딕";line-height:22px;color:#666;}
-#content .r_name {font-size:11px;font-family:"나눔고딕";line-height:18px;color:#666;margin:10px 0 30px 0;}
+#content .s1_text {font-size:13px;font-family:'Nanum Gothic';line-height:22px;color:#666;margin:30px 0 10px 0;}
+#content .s1_text2 {font-size:18px;font-family:'Nanum Gothic';line-height:22px;color:#666;}
+#content .r_title {font-family:'cute';color:#ec4448; font-weight:bolder;}
+#content .r_name {font-size:11px;font-family:'Nanum Gothic';line-height:18px;color:#666;margin:10px 0 30px 0;}
 #content .s_title {background:url('./image/small_point.png') no-repeat;font-size:14px;font-weight:bold;padding:0 0 0 10px;margin:10px 0 10px 0;}
 #content .ta_title {font-size:11px;color:#666;line-height:16px;padding:0 0 20px 30px;margin:20px 0 20px 0;border-bottom:1px solid #dedede;}
 #content .ta_title2 {font-size:11px;color:#666;line-height:16px;padding:0 0 20px 50px;margin:20px 0 20px 0;border-bottom:1px solid #dedede;}

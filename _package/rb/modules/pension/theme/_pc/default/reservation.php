@@ -15,7 +15,7 @@
     <td style="color: #fff; font-weight:bold;">겨울성수기</td>
   </tr>
   <tr>
-    <td><img src="<?php echo $g['img_module_skin']?>/s6_img.png"></td>
+    <td align="center"><img src="<?php echo $g['img_module_skin']?>/s6_img.png"></td>
     <td><font style="background:#FFd0d0; padding:1px 1px 1px 1px;">객실명</font> 애플민트<br />
       <font style="background:#FFd0d0; padding:1px 1px 1px 1px;">객실면적</font> 12평(40㎡)<br />
       <font style="background:#FFd0d0; padding:1px 1px 1px 1px;">객실유형</font> 커플침대<br />
@@ -37,7 +37,7 @@
       <font style="background:#FFd0d0; padding:1px 1px 1px 1px;">인원추가</font> 10,000원/1인<br /></td>
   </tr>
   <tr>
-    <td><img src="<?php echo $g['img_module_skin']?>/s6_img2.png"></td>
+    <td align="center"><img src="<?php echo $g['img_module_skin']?>/s6_img2.png"></td>
     <td><font style="background:#FFd0d0; padding:1px 1px 1px 1px;">객실명</font> 로즈마리<br />
       <font style="background:#FFd0d0; padding:1px 1px 1px 1px;">객실면적</font> 12평(40㎡)<br />
       <font style="background:#FFd0d0; padding:1px 1px 1px 1px;">객실유형</font> 커플침대<br />

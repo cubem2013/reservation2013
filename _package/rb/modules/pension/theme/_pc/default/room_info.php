@@ -91,7 +91,7 @@ $(window).load(function(){
   </ul>
   
           		  </div>
-                  <img src="<?php echo $g['img_module_skin']?>/r_name.png">
+                  <div class="r_title">로즈마리</div>
 <div class="r_name">연인 혹은 친구들끼리 오시면 추천해드리는 룸으로 아담하고 편안한 분위기의 룸입니다.<br />
 1층에 위치하고 있어 독립된 현관으로 바로 입실 할 수 있으며, 창 밖으로 푸른 잔디밭이 여러분을 맞이할 것입니다.<br />
 테라스가 있어 사랑하는 사람과 티테이블에서 맞이할 수 있는 차 한잔의 여유를 갖을 수 있는 아름다운 방입니다.</div>
@@ -100,7 +100,7 @@ $(window).load(function(){
 <div class="t_type1" >
                 <table cellspacing="0">
   <tr>
-    <td>객실명</td>
+    <td width="70">객실명</td>
     <td>객실정보</td>
     <td>수용인원</td>
     <td>비수기 객실요금</td>
@@ -146,7 +146,7 @@ $(window).load(function(){
 <div class="s_title">객실 내부정보</div>
 <div class="t_type2" >
                 <table cellspacing="0" >
-    <td bgcolor="#ffb8b8" align="center" style="color: #fff">객실</td>
+    <td width="50" align="center" bgcolor="#ffb8b8" style="color: #fff">객실</td>
     <td>침대, 협탁, 스탠드, TV, 에어컨, 화장대, 옷걸이, 테이블, 헤어드라이어</td>
   </tr>
   <tr>
